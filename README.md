@@ -3,7 +3,7 @@
 ## Hola 👋, Soy Darwin Salazar 
 
 ## ==================================================
-### soy Venezolano en estos momento soy estudiante de ingenieria de sistema en el Instituto Universitario Politecnico "Santiago Mariño", soy funcionario publico trabajo en el Instituto de Policia Bolivariana del Estado Anzoategui, me apasiona el mundo de la tecnologia y en estos momentos me encuentro aprendiendo y adentrandome en el mundo de la programacion uno de los temas que mas me gusta, soy amante de la naturaleza y los animales 🐶....
+### Soy Venezolano en estos momento soy estudiante de ingenieria de sistema en el Instituto Universitario Politecnico "Santiago Mariño", soy funcionario publico trabajo en el Instituto de Policia Bolivariana del Estado Anzoategui, me apasiona el mundo de la tecnologia y en estos momentos me encuentro aprendiendo y adentrandome en el mundo de la programacion uno de los temas que mas me gusta, soy amante de la naturaleza y los animales 🐶....
 
 # Estudios Realizados:
 #### 💻 Tecnico Superior Universitario en Hidrocarburos mencion "Gas" en el Instituto Universitario de Tecnologia Administrativa ( IUTA ),
