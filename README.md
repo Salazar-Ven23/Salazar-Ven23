@@ -11,7 +11,7 @@ Tecnico Superior Universitario en Funcion Policial en la Universida Nacional Exp
 
 ### 🏢 I’m currently working on: Funcionario Publico 👮 🚓
 ### 🎓 I’m currently studying on: Estudiante de Ingeniria de sistemas Instituto Universitario Politecnico "Santiago Mariño" ( PSM )
-### 🏫 I’m currently learning: Estudiando Ingenieria dde Sistemas, viendo programacion desde Cero via Zoom clases con Egg y asistiendo a Bootcam Con Guillermo Rodas via Twitch
+### 🏫 I’m currently learning: Estudiando Ingenieria de Sistemas, viendo programacion desde Cero via Zoom clases con Egg y asistiendo a Bootcam Con Guillermo Rodas via Twitch
 ### 👯 I’m looking to collaborate on: en lo que pueda hacerlo puenden contar conmigo soy muy proactivo y colaborador me gusta trabajar en equipo 
 ### 🤔 I’m looking for help with: el aprendizaje de los diferentes lenguajes de programacion ya que quiero aprender de todo un poco nada es limitante mientra mas conocimiento creo que es muchisimo mejor, donde necesito muchisima mas ayuda es en el ingles 😔 😥
 ### 💬 Ask me about:?
